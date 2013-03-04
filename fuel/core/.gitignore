@@ -6,11 +6,10 @@ desktop.ini
 .buildpath
 .project
 .settings
-*.tmproj
 fuel/app/logs/*/*/*
 fuel/app/cache/*/*
-build
 nbproject/
 .idea
-
-/fuel/app/config/crypt.php
+*.tmproj
+*.sublime-project
+*.sublime-workspace
